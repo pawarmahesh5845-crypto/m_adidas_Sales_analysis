@@ -90,4 +90,4 @@ The Adidas Sales Analysis Dashboard provides a comprehensive overview of sales p
 Author: Mahesh Dashrath Pawar
 Tool Used: Power BI Desktop
 Project Type: Business Intelligence & Data Analytics Dashboard
-Dashboard Sc link : 
+Dashboard Sc link : https://github.com/pawarmahesh5845-crypto/m_adidas_Sales_analysis/blob/main/m_adidas_sc.png
