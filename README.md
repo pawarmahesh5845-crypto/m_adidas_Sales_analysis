@@ -92,4 +92,4 @@ Tool Used: Power BI Desktop
 Project Type: Business Intelligence & Data Analytics Dashboard
 
 
-https://github.com/pawarmahesh5845-crypto/m_adidas_Sales_analysis/blob/main/m_adidas_sc.png
+dashboard screenshot :https://github.com/pawarmahesh5845-crypto/m_adidas_Sales_analysis/blob/main/m_adidas_sc.png
